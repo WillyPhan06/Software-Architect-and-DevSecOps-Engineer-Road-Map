@@ -1,0 +1,12 @@
+# Download Log
+
+[2025-06-15 15:29:54] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_100kB.jpg (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_100kB.jpg')
+[2025-06-15 15:29:54] SUCCESS - https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
+[2025-06-15 15:29:54] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_5000.csv (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_5000.csv')
+[2025-06-15 15:29:54] SUCCESS - https://filesamples.com/samples/document/txt/sample3.txt
+[2025-06-15 15:29:54] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_XLS_10.xls (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_XLS_10.xls')
+[2025-06-15 15:29:54] FAIL - https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4 (404, message='Not Found', url='https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4')
+[2025-06-15 15:29:56] SUCCESS - https://sample-videos.com/img/Sample-jpg-image-500kb.jpg
+[2025-06-15 15:29:57] SUCCESS - https://sample-videos.com/audio/mp3/crowd-cheering.mp3
+[2025-06-15 15:29:57] SUCCESS - https://sample-videos.com/img/Sample-png-image-500kb.png
+[2025-06-15 15:30:06] SUCCESS - https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4

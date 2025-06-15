@@ -1,0 +1,102 @@
+# Download Log
+
+[2025-06-15 16:06:35] SUCCESS - https://filesamples.com/samples/document/txt/sample1.txt
+[2025-06-15 16:06:36] SUCCESS - https://sample-videos.com/text/Sample-text-file-10kb.txt
+[2025-06-15 16:06:36] FAIL - https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4 (404, message='Not Found', url='https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4')
+[2025-06-15 16:06:36] FAIL - https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4 (404, message='Not Found', url='https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4')
+[2025-06-15 16:06:36] FAIL - https://speed.hetzner.de/100MB.bin (Cannot connect to host [speed.hetzner.de:443](http://speed.hetzner.de:443/) ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')])
+[2025-06-15 16:06:36] SUCCESS - https://download.samplelib.com/mp3/sample-3s.mp3
+[2025-06-15 16:06:36] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_100kB.jpg (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_100kB.jpg')
+[2025-06-15 16:06:37] FAIL - https://speed.hetzner.de/10MB.bin (Cannot connect to host [speed.hetzner.de:443](http://speed.hetzner.de:443/) ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')])
+[2025-06-15 16:06:37] SUCCESS - https://filesamples.com/samples/document/txt/sample2.txt
+[2025-06-15 16:06:37] SUCCESS - https://sample-videos.com/audio/mp3/crowd-cheering.mp3
+[2025-06-15 16:06:37] FAIL - https://speed.hetzner.de/1MB.bin (Cannot connect to host [speed.hetzner.de:443](http://speed.hetzner.de:443/) ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')])
+[2025-06-15 16:06:37] FAIL - https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp3-file.mp3 (404, message='Not Found', url='https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp3-file.mp3')
+[2025-06-15 16:06:37] FAIL - https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4 (404, message='Not Found', url='https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4')
+[2025-06-15 16:06:37] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_2500kB.jpg (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_2500kB.jpg')
+[2025-06-15 16:06:38] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_1MB.jpg (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_1MB.jpg')
+[2025-06-15 16:06:38] SUCCESS - https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4
+[2025-06-15 16:06:38] SUCCESS - https://sample-videos.com/img/Sample-jpg-image-1mb.jpg
+[2025-06-15 16:06:38] SUCCESS - https://filesamples.com/samples/document/txt/sample3.txt
+[2025-06-15 16:06:38] SUCCESS - https://sample-videos.com/img/Sample-png-image-500kb.png
+[2025-06-15 16:06:38] SUCCESS - https://sample-videos.com/img/Sample-jpg-image-500kb.jpg
+[2025-06-15 16:06:38] FAIL - https://speed.hetzner.de/100MB.bin?gi (Cannot connect to host [speed.hetzner.de:443](http://speed.hetzner.de:443/) ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')])
+[2025-06-15 16:06:39] FAIL - https://ipv4.download.thinkbroadband.com/5MB.zip (Cannot connect to host [ipv4.download.thinkbroadband.com:443](http://ipv4.download.thinkbroadband.com:443/) ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '[ipv4.download.thinkbroadband.com](http://ipv4.download.thinkbroadband.com/)'. (_ssl.c:1000)")])
+[2025-06-15 16:06:39] FAIL - https://ipv4.download.thinkbroadband.com/20MB.zip (Cannot connect to host [ipv4.download.thinkbroadband.com:443](http://ipv4.download.thinkbroadband.com:443/) ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '[ipv4.download.thinkbroadband.com](http://ipv4.download.thinkbroadband.com/)'. (_ssl.c:1000)")])
+[2025-06-15 16:06:39] FAIL - https://ipv4.download.thinkbroadband.com/10MB.zip (Cannot connect to host [ipv4.download.thinkbroadband.com:443](http://ipv4.download.thinkbroadband.com:443/) ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '[ipv4.download.thinkbroadband.com](http://ipv4.download.thinkbroadband.com/)'. (_ssl.c:1000)")])
+[2025-06-15 16:06:39] FAIL - https://www.learningcontainer.com/wp-content/uploads/2017/11/file_example_MP3_25MG.mp3 (404, message='Not Found', url='https://www.learningcontainer.com/wp-content/uploads/2017/11/file_example_MP3_25MG.mp3')
+[2025-06-15 16:06:39] SUCCESS - https://sample-videos.com/audio/mp3/wave.mp3
+[2025-06-15 16:06:39] FAIL - https://download.samplelib.com/mp3/sample-5s.mp3 (403, message='Forbidden', url='https://download.samplelib.com/mp3/sample-5s.mp3')
+[2025-06-15 16:06:39] SUCCESS - https://filesamples.com/samples/document/pdf/sample1.pdf
+[2025-06-15 16:06:39] FAIL - https://download.samplelib.com/mp3/sample-10s.mp3 (403, message='Forbidden', url='https://download.samplelib.com/mp3/sample-10s.mp3')
+[2025-06-15 16:06:39] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_PNG_1MB.png (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_PNG_1MB.png')
+[2025-06-15 16:06:39] SUCCESS - https://filesamples.com/samples/document/pdf/sample2.pdf
+[2025-06-15 16:06:39] FAIL - https://speed.hetzner.de/10MB.bin?gi (Cannot connect to host [speed.hetzner.de:443](http://speed.hetzner.de:443/) ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)')])
+[2025-06-15 16:06:39] FAIL - https://ipv4.download.thinkbroadband.com/50MB.zip (Cannot connect to host [ipv4.download.thinkbroadband.com:443](http://ipv4.download.thinkbroadband.com:443/) ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '[ipv4.download.thinkbroadband.com](http://ipv4.download.thinkbroadband.com/)'. (_ssl.c:1000)")])
+[2025-06-15 16:06:39] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_5MB.jpg (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_5MB.jpg')
+[2025-06-15 16:06:40] FAIL - https://www.learningcontainer.com/wp-content/uploads/2017/10/file-sample_150kB.pdf (404, message='Not Found', url='https://www.learningcontainer.com/wp-content/uploads/2017/10/file-sample_150kB.pdf')
+[2025-06-15 16:06:40] SUCCESS - https://sample-videos.com/img/Sample-png-image-1mb.png
+[2025-06-15 16:06:40] FAIL - https://www.learningcontainer.com/wp-content/uploads/2018/04/file_example_MOV_480_700kB.mov (404, message='Not Found', url='https://www.learningcontainer.com/wp-content/uploads/2018/04/file_example_MOV_480_700kB.mov')
+[2025-06-15 16:06:40] FAIL - https://ipv4.download.thinkbroadband.com/100MB.zip (Cannot connect to host [ipv4.download.thinkbroadband.com:443](http://ipv4.download.thinkbroadband.com:443/) ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '[ipv4.download.thinkbroadband.com](http://ipv4.download.thinkbroadband.com/)'. (_ssl.c:1000)")])
+[2025-06-15 16:06:40] SUCCESS - https://filesamples.com/samples/document/pdf/sample3.pdf
+[2025-06-15 16:06:40] FAIL - https://ipv4.download.thinkbroadband.com/200MB.zip (Cannot connect to host [ipv4.download.thinkbroadband.com:443](http://ipv4.download.thinkbroadband.com:443/) ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '[ipv4.download.thinkbroadband.com](http://ipv4.download.thinkbroadband.com/)'. (_ssl.c:1000)")])
+[2025-06-15 16:06:40] FAIL - https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4 (404, message='Not Found', url='https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4')
+[2025-06-15 16:06:40] SUCCESS - https://sample-videos.com/img/Sample-jpg-image-1mb.jpg
+[2025-06-15 16:06:40] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_PNG_10MB.png (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_PNG_10MB.png')
+[2025-06-15 16:06:40] SUCCESS - https://filesamples.com/samples/document/txt/sample1.txt
+[2025-06-15 16:06:40] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_MP3_1MG.mp3 (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_MP3_1MG.mp3')
+[2025-06-15 16:06:40] SUCCESS - https://sample-videos.com/img/Sample-jpg-image-500kb.jpg
+[2025-06-15 16:06:40] SUCCESS - https://sample-videos.com/audio/mp3/wave.mp3
+[2025-06-15 16:06:40] SUCCESS - https://sample-videos.com/text/Sample-text-file-10kb.txt
+[2025-06-15 16:06:40] SUCCESS - https://filesamples.com/samples/document/txt/sample2.txt
+[2025-06-15 16:06:40] FAIL - https://ipv4.download.thinkbroadband.com/512MB.zip (Cannot connect to host [ipv4.download.thinkbroadband.com:443](http://ipv4.download.thinkbroadband.com:443/) ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '[ipv4.download.thinkbroadband.com](http://ipv4.download.thinkbroadband.com/)'. (_ssl.c:1000)")])
+[2025-06-15 16:06:40] SUCCESS - https://filesamples.com/samples/document/txt/sample3.txt
+[2025-06-15 16:06:40] FAIL - https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_2MG.mp3 (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_2MG.mp3')
+[2025-06-15 16:06:40] FAIL - https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_5MG.mp3 (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_5MG.mp3')
+[2025-06-15 16:06:40] SUCCESS - https://filesamples.com/samples/document/pdf/sample1.pdf
+[2025-06-15 16:06:40] FAIL - https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_1_5MG.mp4 (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_1_5MG.mp4')
+[2025-06-15 16:06:40] FAIL - https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_3_5MG.mp4 (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_3_5MG.mp4')
+[2025-06-15 16:06:40] FAIL - https://ipv4.download.thinkbroadband.com/1GB.zip (Cannot connect to host [ipv4.download.thinkbroadband.com:443](http://ipv4.download.thinkbroadband.com:443/) ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '[ipv4.download.thinkbroadband.com](http://ipv4.download.thinkbroadband.com/)'. (_ssl.c:1000)")])
+[2025-06-15 16:06:40] SUCCESS - https://sample-videos.com/img/Sample-png-image-500kb.png
+[2025-06-15 16:06:41] SUCCESS - https://filesamples.com/samples/document/pdf/sample2.pdf
+[2025-06-15 16:06:41] SUCCESS - https://filesamples.com/samples/document/pdf/sample3.pdf
+[2025-06-15 16:06:41] FAIL - https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_7MG.mp4 (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_7MG.mp4')
+[2025-06-15 16:06:41] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_10.csv (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_10.csv')
+[2025-06-15 16:06:41] FAIL - https://download.samplelib.com/video/mp4/sample-5s.mp4 (403, message='Forbidden', url='https://download.samplelib.com/video/mp4/sample-5s.mp4')
+[2025-06-15 16:06:41] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_500.csv (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_500.csv')
+[2025-06-15 16:06:41] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_1k.csv (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_1k.csv')
+[2025-06-15 16:06:41] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_10k.csv (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_10k.csv')
+[2025-06-15 16:06:41] FAIL - https://download.samplelib.com/video/mp4/sample-10s.mp4 (403, message='Forbidden', url='https://download.samplelib.com/video/mp4/sample-10s.mp4')
+[2025-06-15 16:06:41] SUCCESS - https://sample-videos.com/audio/mp3/crowd-cheering.mp3
+[2025-06-15 16:06:41] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_5000.csv (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_CSV_5000.csv')
+[2025-06-15 16:06:41] SUCCESS - https://sample-videos.com/img/Sample-png-image-1mb.png
+[2025-06-15 16:06:41] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_XLS_10.xls (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_XLS_10.xls')
+[2025-06-15 16:06:41] FAIL - https://download.samplelib.com/video/mp4/sample-30s.mp4 (403, message='Forbidden', url='https://download.samplelib.com/video/mp4/sample-30s.mp4')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_XLS_200.xls (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_XLS_200.xls')
+[2025-06-15 16:06:42] FAIL - https://download.samplelib.com/jpeg/sample-jpeg-image-500kb.jpg (403, message='Forbidden', url='https://download.samplelib.com/jpeg/sample-jpeg-image-500kb.jpg')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_XLSX_10.xlsx (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_XLSX_10.xlsx')
+[2025-06-15 16:06:42] FAIL - https://download.samplelib.com/pdf/sample-pdf-2mb.pdf (403, message='Forbidden', url='https://download.samplelib.com/pdf/sample-pdf-2mb.pdf')
+[2025-06-15 16:06:42] FAIL - https://download.samplelib.com/pdf/sample-pdf-1mb.pdf (403, message='Forbidden', url='https://download.samplelib.com/pdf/sample-pdf-1mb.pdf')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/02/file_example_XLSX_50.xlsx (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/02/file_example_XLSX_50.xlsx')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_PPT_1MB.ppt (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_PPT_1MB.ppt')
+[2025-06-15 16:06:42] FAIL - https://download.samplelib.com/pdf/sample-pdf-5mb.pdf (403, message='Forbidden', url='https://download.samplelib.com/pdf/sample-pdf-5mb.pdf')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_PPT_2MB.ppt (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_PPT_2MB.ppt')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/11/file_example_DOC_2MB.doc (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/11/file_example_DOC_2MB.doc')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/11/file_example_DOC_1MB.doc (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/11/file_example_DOC_1MB.doc')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_PPT_5MB.ppt (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_PPT_5MB.ppt')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/11/file_example_WAV_2MG.wav (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/11/file_example_WAV_2MG.wav')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/11/file_example_WAV_1MG.wav (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/11/file_example_WAV_1MG.wav')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/11/file_example_RTF_200kB.rtf (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/11/file_example_RTF_200kB.rtf')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_OGG_1MG.ogg (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_OGG_1MG.ogg')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2018/04/file_example_AVI_1280_1_2MB.avi (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2018/04/file_example_AVI_1280_1_2MB.avi')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2018/04/file_example_AVI_480_500kB.avi (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2018/04/file_example_AVI_480_500kB.avi')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2018/04/file_example_MOV_480_700kB.mov (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2018/04/file_example_MOV_480_700kB.mov')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/11/file_example_DOCX_1MB.docx (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/11/file_example_DOCX_1MB.docx')
+[2025-06-15 16:06:42] FAIL - https://file-examples.com/wp-content/uploads/2017/11/file_example_DOCX_2MB.docx (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/11/file_example_DOCX_2MB.docx')
+[2025-06-15 16:06:43] FAIL - https://file-examples.com/wp-content/uploads/2018/04/file_example_WMV_480_700kB.wmv (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2018/04/file_example_WMV_480_700kB.wmv')
+[2025-06-15 16:06:43] FAIL - https://download.samplelib.com/png/sample-png-image-500kb.png (403, message='Forbidden', url='https://download.samplelib.com/png/sample-png-image-500kb.png')
+[2025-06-15 16:06:43] FAIL - https://file-examples.com/wp-content/uploads/2018/04/file_example_WMV_1280_1_2MB.wmv (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2018/04/file_example_WMV_1280_1_2MB.wmv')
+[2025-06-15 16:06:43] FAIL - https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_100kB.jpg (403, message='Forbidden', url='https://file-examples.com/wp-content/uploads/2017/10/file_example_JPG_100kB.jpg')
+[2025-06-15 16:06:52] SUCCESS - https://download.samplelib.com/mp4/sample-5s.mp4
+[2025-06-15 16:07:04] SUCCESS - https://download.samplelib.com/mp4/sample-10s.mp4
+[2025-06-15 16:07:36] FAIL - https://download.samplelib.com/mp4/sample-30s.mp4 ()
