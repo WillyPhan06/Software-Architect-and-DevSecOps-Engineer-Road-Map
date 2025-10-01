@@ -1,0 +1,16 @@
+{
+  "name": "Alice",
+  "age": 25,
+  "is_student": true,
+  "skills": ["Python", "Data Science", "Machine Learning"],
+  "address": {
+    "street": "123 Main St",
+    "city": "Wonderland",
+    "zip": "12345"
+  },
+  "scores": {
+    "math": 95,
+    "english": 88,
+    "history": 92
+  }
+}
