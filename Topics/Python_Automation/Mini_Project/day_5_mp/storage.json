@@ -1,16 +1,54 @@
 {
-  "name": "Alice",
-  "age": 25,
-  "is_student": true,
-  "skills": ["Python", "Data Science", "Machine Learning"],
-  "address": {
-    "street": "123 Main St",
-    "city": "Wonderland",
-    "zip": "12345"
-  },
-  "scores": {
-    "math": 95,
-    "english": 88,
-    "history": 92
-  }
+  "people": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 28,
+      "email": "alice.johnson@example.com",
+      "address": {
+        "street": "123 Maple St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62704"
+      },
+      "phoneNumbers": [
+        {"type": "home", "number": "555-1234"},
+        {"type": "mobile", "number": "555-5678"}
+      ],
+      "skills": ["Python", "JavaScript", "Data Analysis"]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 35,
+      "email": "bob.smith@example.com",
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Greenville",
+        "state": "TX",
+        "zip": "75401"
+      },
+      "phoneNumbers": [
+        {"type": "mobile", "number": "555-8765"}
+      ],
+      "skills": ["Java", "SQL", "Project Management"]
+    },
+    {
+      "id": 3,
+      "name": "Catherine Lee",
+      "age": 30,
+      "email": "catherine.lee@example.com",
+      "address": {
+        "street": "789 Pine Rd",
+        "city": "Madison",
+        "state": "WI",
+        "zip": "53703"
+      },
+      "phoneNumbers": [
+        {"type": "home", "number": "555-4321"},
+        {"type": "work", "number": "555-9876"}
+      ],
+      "skills": ["C++", "Python", "Machine Learning"]
+    }
+  ]
 }
