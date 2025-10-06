@@ -1,0 +1,21 @@
+id,fullname,age,department,salary,extra
+1,Alice Nguyen,25,HR,520,Remote
+2,Bob Tran,30,IT,710,Overtime
+3,Charlie Le,22,Marketing,430,Intern
+4,Diana Vu,28,IT,680,
+5,Eric Pham,35,Finance,950,Bonus
+6,Faith Bui,27,Design,620,Part-time
+7,George Vo,24,Customer Service,480,Remote
+8,Willy Phan,19,IT,100000,Stock Options
+9,Isaac Do,31,Operations,860,Overtime
+10,Julia Ho,26,HR,540,
+11,Kevin Dang,23,Marketing,410,Commission
+12,Linda Ta,33,Finance,970,Promotion
+13,Martin Duong,37,IT,1000,Project Lead
+14,Nancy Lam,21,Design,390,Intern
+15,Oscar Huynh,32,Sales,880,Travel
+16,Patricia Ly,28,Customer Service,560,Bonus
+17,Quinn Ngo,26,HR,510,Remote
+18,Ryan Chau,29,Marketing,600,Campaign Lead
+19,Sophia Phan,34,Finance,940,
+20,Tommy Vo,27,IT,720,Overtime
