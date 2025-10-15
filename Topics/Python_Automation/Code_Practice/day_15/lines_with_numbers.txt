@@ -1,0 +1,38 @@
+COMP 1589  
+Lab week 8  
+Task  1: A simple  IF statement  
+Task  2: Mondrian  Generator  
+the results of our code in the HTML pages itself. One method of doing this is to use the HTML5 
+http://www.w3schools.com/html/html5_canvas.asp  
+94 
+To help you, you have been given the code  (line 38 ) for the turnfNameIntoColour() function 
+many  letters, is greater than 6 ( fName.length > 6 ). If it is, then the function returns the colour as 
+age is less than 30, the  colour  is yellow , otherwise  the colour is  red. 
+Task  3: Mondrian  Generator  with user  input  
+Re-save your code  from task  2 as task3.html.  
+For task 4 you are to create  a text box for the user to enter  their name  into and a button  that when 
+1. Comment  out the function  call draw()  on line 74, we want  to use a button  to call the 
+2. In the html create  a text box with id ‘fName’  and a button  that calls function  draw()  when 
+3. Remove  the hard coded  value  assigned  to variable  fName  (see line 61 below)  and add the 
+code necessary to get the value form the text box you created above in step 1. (This 
+1. Why  have  I used a drop-down  list for eye colour  and not just provided  another  text box?  
+2. In the example I showed in the lecture I had alert boxes popping up if I did not enter 
+Page 1  School of Computing and Mathematical Sciences  
+COMP 1589  
+Tutorial 9  
+Task 1: “Art Balling” Generator  
+Page 2   
+of all trying to understand what the 2 functions will do. You will notice that the 
+coloured squares. The drawSplatter function utilises a loop to draw 10 circles of random shapes 
+and positions dependent on 4 parameters (size,xPos,yPos,colour) passed to the function.  
+around line 37 before the closing script tag.  
+Your task is to take the above code and using either a for loop or a while loop, draw 10 
+produces a random number of “normal circles” and “circle splatters” betwee n 1 and 20.  
+randomColour = "hsl("+ 360*Math.random() + ",50%,50%)";  
+Page 3  Task 2: “Spot” Generator  
+during the 1990s” ... “Hirst's best known works are his 
+Page 4   
+When you run this code you will notice that only one line of 9 horizontal “spots” appears. Your 
+task is to use a nested loop to produce the full painting, which is comprised of 9 horizontal 
+“spots” and9 vertical “spots”.  
+30 assignment) and uses a counter called i.  

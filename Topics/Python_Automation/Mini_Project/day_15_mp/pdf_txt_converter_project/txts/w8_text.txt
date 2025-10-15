@@ -1,0 +1,93 @@
+Page 1  School of Computing and Mathematical Sciences  
+COMP 1589  
+Tutorial 9  
+ 
+Loops in JavaScript  
+ 
+Introduction  
+In this week’s lecture you were told about loops in JavaScript. In this tutorial you will 
+explore these concepts by creating some simple programs that use the HTML Canvas  
+ 
+Task 1: “Art Balling” Generator  
+“ Former  England cricket captain Michael Vaughan 
+has found a new use for that pull shot: whacking 
+paint -daubed balls at canvas to produce highly 
+collectable works of art. Watch out, abstract 
+expressionism - here comes 'artballing'” – 
+ 
+The following code is the “skeleton” for a program 
+that will generate a very simple version of a 
+Michael Vaughan painting using a combination of 
+functions and loops. You were shown the 
+completed code during the lecture.  
+ 
+ 
+
+Page 2   
+This will not currently run as it requires code that utilises the given functions. Spend time first 
+of all trying to understand what the 2 functions will do. You will notice that the 
+drawFilledCircle function is very similar to the function you used in the  last tutorial to create 
+coloured squares. The drawSplatter function utilises a loop to draw 10 circles of random shapes 
+and positions dependent on 4 parameters (size,xPos,yPos,colour) passed to the function.  
+ 
+Calling the functions in a loop  
+The following code can be used to create one “normal circle” and one “circle splatter”. Insert it 
+around line 37 before the closing script tag.  
+ 
+ 
+Your task is to take the above code and using either a for loop or a while loop, draw 10 
+“normal circles” and “circle splatters”. Once you have done this modify your code so that it 
+produces a random number of “normal circles” and “circle splatters” betwee n 1 and 20.  
+ 
+ 
+Random colour optional method  
+randomColour = "hsl("+ 360*Math.random() + ",50%,50%)";  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 3  Task 2: “Spot” Generator  
+“Damien Steven Hirst is an English artist and the most 
+prominent member of the group known as "Young British 
+Artists" (or YBAs), who dominated the art scene in Britain 
+during the 1990s” ... “Hirst's best known works are his 
+paintings, medicine cabinet sculp tures, and glass tank 
+installations. For the most part, his paintings have taken 
+on two styles. One is an arrangement of color spots with 
+titles that refer to pharmaceutical chemicals, known as 
+Spot paintings. ” 
+
+Page 4   
+ 
+The above  code is the “skeleton” for a program that will generate a very simple version of a 
+Damien Hirst Spot painting using a combination of functions and loops. You were shown the 
+completed code during the lecture.  
+ 
+When you run this code you will notice that only one line of 9 horizontal “spots” appears. Your 
+task is to use a nested loop to produce the full painting, which is comprised of 9 horizontal 
+“spots” and9 vertical “spots”.  
+You can do this by creating another for loop, which surrounds the current for loop (and xPos = 
+30 assignment) and uses a counter called i.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
