@@ -29,3 +29,6 @@ htmlcov/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# Private Stuff
+service_account.json
