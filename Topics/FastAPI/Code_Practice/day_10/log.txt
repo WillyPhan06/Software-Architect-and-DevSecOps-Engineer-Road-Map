@@ -1,0 +1,3 @@
+Send notification to nana
+Send notification to kora
+Checked DB connection status at 20.10 seconds at 20.117044687271118 second
