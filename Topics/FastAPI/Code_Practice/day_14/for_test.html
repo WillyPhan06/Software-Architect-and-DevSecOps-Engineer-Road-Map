@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Testing CORS</h2>
+    <button onclick="testCORS()">Fetch from FastAPI</button>
+
+    <script>
+      async function testCORS() {
+        try {
+          const response = await fetch("http://127.0.0.1:8000/limited/");
+          const data = await response.json();
+          console.log("✅ Success:", data);
+        } catch (err) {
+          console.error("❌ CORS Error:", err);
+        }
+      }
+    </script>
+  </body>
+</html>
