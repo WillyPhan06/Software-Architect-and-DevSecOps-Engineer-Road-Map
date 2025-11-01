@@ -1,0 +1,6 @@
+2025-11-01 16:15:57,857 - INFO - Script started
+2025-11-01 16:15:57,857 - ERROR - File not found: [Errno 2] No such file or directory: 'data.csv'
+2025-11-01 16:15:57,858 - INFO - Script finished.
+2025-11-01 16:16:29,948 - INFO - Script started
+2025-11-01 16:16:29,948 - INFO - Read 0 lines successfully.
+2025-11-01 16:16:29,949 - INFO - Script finished.
