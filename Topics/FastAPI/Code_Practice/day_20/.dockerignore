@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+.env
+.env.*
+.vscode
+.git
+.gitignore
+*.db
+*.sqlite3
+dist
+build

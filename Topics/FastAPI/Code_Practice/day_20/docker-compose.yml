@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile   # use production Dockerfile, or Dockerfile.dev
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
+    # for development you can mount source with a volume:
+    # volumes:
+    #   - ./:/app
